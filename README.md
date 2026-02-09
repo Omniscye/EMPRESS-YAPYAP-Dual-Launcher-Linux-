@@ -50,7 +50,8 @@ chmod +x EMPRESS_YAPYAP_Dual_Launcher-x86_64.AppImage
 * YAPYAP installed via Steam
 * Proton installed (Proton 10, Proton Experimental, or similar)
 * Gale Mod Manager or an existing Gale profile containing BepInEx
-* Python 3 with Tkinter (included on most distributions)
+* The Local Multiplayer Mod installed by darmuh https://thunderstore.io/c/yapyap/p/darmuh/LocalMultiplayer/
+* Python 3 with Tkinter (included on most distributions) - IF you are compiling from source only.
 
 ---
 
