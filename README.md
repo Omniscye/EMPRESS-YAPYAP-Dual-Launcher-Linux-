@@ -1,6 +1,6 @@
 # EMPRESS YAPYAP Dual Launcher (Linux)
 
-A Tkinter GUI launcher that starts two YAPYAP instances on Linux using one Steam account for local multiplayer testing.
+A Tkinter GUI launcher that starts two YAPYAP instances on Linux using one Steam account for local multiplayer testing to be used with the YapYap Local Multiplayer Mod.
 
 Both instances are forced to load BepInEx from your Gale profile (Keso or Gale mod manager).
 No BepInEx installation is required inside the Steam game directory.
